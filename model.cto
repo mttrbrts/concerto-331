@@ -1,0 +1,5 @@
+namespace concerto331
+
+concept ExampleEventOutputMetadata {
+  o DateTime timestamp
+}
